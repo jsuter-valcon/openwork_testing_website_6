@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Budget 2021 &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/budget-2021/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Thu, 28 Oct 2021 13:03:49 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Autumn Budget 2021</title>
+		<link>https://wellspringfinancial.co.uk/blog/autumn-budget-2021-key-points/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2021 12:57:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Budget]]></category>
+		<category><![CDATA[Budget 2021]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=500</guid>
+
+					<description><![CDATA[Key Points Chancellor Rishi Sunak used the Autumn Budget 2021 to invest taxpayer money in long-term plans he says will secure the economic future of the country. Everything from the NHS, schools, local transport and the culture and leisure sector appear set to benefit from the better-than-expected economic outlook from the Office for Budget Responsibility. [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spring Budget 2021              “We will recover”</title>
+		<link>https://wellspringfinancial.co.uk/blog/spring-budget-2021-we-will-recover/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Thu, 04 Mar 2021 10:18:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Budget]]></category>
+		<category><![CDATA[Budget 2021]]></category>
+		<category><![CDATA[recovery]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=390</guid>
+
+					<description><![CDATA[Chancellor of the Exchequer, Rishi Sunak, delivered his second Budget on 3 March declaring that&#160;&#8220;we will recover&#8221;. The key&#160;fiscal event, which&#160;had been delayed from the Autumn due to the pandemic,&#160;centred on&#160;a £65bn three-part&#160;plan designed to continue supporting British people and businesses through&#160;the pandemic,&#160;‘fix’&#160;the public finances once recovery begins and lay the foundations for&#160;the&#160;future economy. Economic [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

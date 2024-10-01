@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lenders &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/lenders/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Mon, 10 Jul 2023 11:06:26 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>New Mortgage Charter encourages lenders to provide you with more support</title>
+		<link>https://wellspringfinancial.co.uk/blog/new-mortgage-charter-encourages-lenders-to-provide-you-with-more-support/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 12:40:33 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Lenders]]></category>
+		<category><![CDATA[Mortgages]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=734</guid>
+
+					<description><![CDATA[New Mortgage Charter encourages lenders to provide you with more support Banks and Building Societies have been encouraged by Chancellor Jeremy Hunt to offer more flexibility if you are finding it difficult to make mortgage payments. Mortgage lenders, the FCA, the Government as well as organisations such as UK Finance and the Building Societies Association [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

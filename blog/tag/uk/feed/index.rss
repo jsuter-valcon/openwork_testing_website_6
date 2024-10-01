@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UK &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/uk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Thu, 10 Feb 2022 16:39:58 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Reckless Caution Is Costing Savers</title>
+		<link>https://wellspringfinancial.co.uk/blog/reckless-caution-is-costing-savers/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Thu, 10 Feb 2022 16:39:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Savings]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=523</guid>
+
+					<description><![CDATA[New research from The Openwork Partnership, one of the UK’s largest and longest established financial advice and investment networks, shows more than 11.6 million are keeping all their money in cash despite ongoing low rates. Its nationwide study found 22% of adults prefer to keep all their money in cash while the same number will [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

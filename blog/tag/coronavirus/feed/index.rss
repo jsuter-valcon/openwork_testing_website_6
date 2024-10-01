@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Coronavirus &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/coronavirus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Mon, 15 Feb 2021 13:45:06 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Heading in the right direction</title>
+		<link>https://wellspringfinancial.co.uk/blog/heading-in-the-right-direction/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 13:22:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[Global Recovery]]></category>
+		<category><![CDATA[Investment]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=373</guid>
+
+					<description><![CDATA[Despite rising coronavirus cases and increased lockdown measures, there was a renewed sense of optimism about the global recovery as we said goodbye to 2020 Although many countries have begun the new year under strict lockdown measures, vaccinations are providing a light at the end of the tunnel. Investors are optimistic that life will return [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

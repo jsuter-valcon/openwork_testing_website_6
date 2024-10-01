@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pension &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/pension/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Wed, 03 Feb 2021 13:59:57 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Could you live on the State Pension?</title>
+		<link>https://wellspringfinancial.co.uk/blog/could-you-live-on-the-state-pension/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 12:02:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Financial Planning]]></category>
+		<category><![CDATA[Pension]]></category>
+		<category><![CDATA[Retirement]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=331</guid>
+
+					<description><![CDATA[Let’s be honest, on the morning of 21 October few of us were waiting with bated breath as the latest UK inflation stats were revealed. But, for millions of people, that moment was significant. That’s because the September (Consumer Price Index) CPI inflation figure forms part of the government’s ‘triple lock’ formula used to determine [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Savings &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/savings/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Wed, 01 Mar 2023 16:31:21 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Spring clean your finances</title>
+		<link>https://wellspringfinancial.co.uk/blog/spring-clean-your-finances-2/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Wed, 01 Mar 2023 16:30:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Investment]]></category>
+		<category><![CDATA[Savings]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=622</guid>
+
+					<description><![CDATA[The start of a new year is a great time to review your finances – whether it’s your savings and investments, mortgages or insurance policies. Higher interest rates and the rapid increase in the cost of living are likely to be affecting many areas of your finances. The start of the year is the perfect [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Budgeting tips for saving money while making your life better</title>
+		<link>https://wellspringfinancial.co.uk/blog/budgeting-tips-for-saving-money-while-making-your-life-better/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2022 09:49:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Budgeting]]></category>
+		<category><![CDATA[Savings]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=566</guid>
+
+					<description><![CDATA[Whether you want to go on holiday or just want to save some money for the future, budgeting is a good way to put aside some money for reaching this goal. Here you can find some tips to help you take control of your finances. Why is budgeting so important? You might think that it’s [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reckless Caution Is Costing Savers</title>
+		<link>https://wellspringfinancial.co.uk/blog/reckless-caution-is-costing-savers/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Thu, 10 Feb 2022 16:39:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Savings]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=523</guid>
+
+					<description><![CDATA[New research from The Openwork Partnership, one of the UK’s largest and longest established financial advice and investment networks, shows more than 11.6 million are keeping all their money in cash despite ongoing low rates. Its nationwide study found 22% of adults prefer to keep all their money in cash while the same number will [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

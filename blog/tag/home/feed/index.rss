@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Home &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/home/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Mon, 15 Aug 2022 11:28:09 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Home Insurance &#8211; Contents vs Buildings Insurance</title>
+		<link>https://wellspringfinancial.co.uk/blog/home-insurance-contents-vs-buildings-insurance/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2022 11:28:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Buildings]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[Insurance]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=579</guid>
+
+					<description><![CDATA[Home Insurance &#8211; What you need to know One wet and windy evening, Rachel and Nathan decided to take advantage of their newborn, Eli, falling asleep in his moses basket by getting an early night. Gently picking up the basket from its regular spot in front of the fireplace, they crept upstairs. No sooner had [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

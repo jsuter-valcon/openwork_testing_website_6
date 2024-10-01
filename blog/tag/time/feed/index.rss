@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>time &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/time/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Tue, 22 Mar 2022 11:22:36 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Time vs Timing</title>
+		<link>https://wellspringfinancial.co.uk/blog/time-vs-timing/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Tue, 22 Mar 2022 11:06:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[investing]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[time]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=538</guid>
+
+					<description><![CDATA[When it comes to investing, you might have heard that time in the market is better than timing the market. Time in the market is another way of describing long-term investing. Investors with a time horizon of at least five years (and in many cases longer) buy an asset and hold on to it. They [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

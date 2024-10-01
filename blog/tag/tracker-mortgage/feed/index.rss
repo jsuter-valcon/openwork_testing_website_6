@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tracker Mortgage &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/tracker-mortgage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Tue, 18 Apr 2023 08:05:49 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>It&#8217;s not all fixed rates</title>
+		<link>https://wellspringfinancial.co.uk/blog/its-not-all-fixed-rates-2/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Mon, 17 Apr 2023 10:24:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Fixed Rate]]></category>
+		<category><![CDATA[Mortgages]]></category>
+		<category><![CDATA[Tracker Mortgage]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=665</guid>
+
+					<description><![CDATA[With over&#160;10 years of record low interest rates, fixed rate mortgages offer borrowers the stability of knowing what the mortgage payment will be for a set period, which helps with budgeting. Because of the way many lenders decide what rates to offer, we’re currently seeing tracker products priced a lot more competitively than fixed rate [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>It&#8217;s not all fixed rates</title>
+		<link>https://wellspringfinancial.co.uk/blog/its-not-all-fixed-rates/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Tue, 03 Jan 2023 13:00:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Fixed Rate]]></category>
+		<category><![CDATA[Tracker Mortgage]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=606</guid>
+
+					<description><![CDATA[With over&#160;10 years of record low interest rates, fixed rate mortgages offer borrowers the stability of knowing what the mortgage payment will be for a set period, which helps with budgeting. Because of the way many lenders decide what rates to offer, we’re currently seeing tracker products priced a lot more competitively than fixed rate [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

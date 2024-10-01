@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Future &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/future/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Wed, 23 Feb 2022 10:47:59 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Junior ISA</title>
+		<link>https://wellspringfinancial.co.uk/blog/junior-isa/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Wed, 23 Feb 2022 10:45:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Future]]></category>
+		<category><![CDATA[ISA]]></category>
+		<category><![CDATA[Junior]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=527</guid>
+
+					<description><![CDATA[In the Autumn Budget in 2021, it was revealed that the Junior ISA spending limits would remain at £9,000 for the 2022/2023 tax year. The JISA limit was last changed in early 2020, when it was doubled from £4,500 to its current level. JISA and CTFs both benefit JISAs replaced Child Trust Funds (CTF) in [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

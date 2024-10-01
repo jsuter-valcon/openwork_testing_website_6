@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Advice &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/advice/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Fri, 14 Jul 2023 10:27:15 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>The value of advice</title>
+		<link>https://wellspringfinancial.co.uk/blog/thevalueofadvice/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Wed, 12 Jul 2023 09:17:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Financial Planning]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=774</guid>
+
+					<description><![CDATA[Financial planners use their experience and expertise to help people build their wealth and reach their long-term financial goals. Here are ten ways we can help you and your family: YOUR HOME MAY BE REPOSSESSED IF YOU DO NOT KEEP UP REPAYMENTS ON YOUR MORTGAGE Approved by The Openwork Partnership on 5 July 2023 WRITTEN [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The value of mortgage advice</title>
+		<link>https://wellspringfinancial.co.uk/blog/the-value-of-mortgage-advice/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Thu, 19 May 2022 09:34:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Mortgages]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=553</guid>
+
+					<description><![CDATA[Mortgages &#8211; Sorting the fact from the fiction Lindsay and Sam have just found out they’re expecting their first baby. Although they’re excited at the prospect of starting a family, it’s come as a bit of a surprise and their current living situation is far from ideal. They’ve been staying with Lindsay’s dad in his [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

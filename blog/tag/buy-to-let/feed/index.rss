@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Buy-to-Let &#8211; Wellspring Financial</title>
+	<atom:link href="https://wellspringfinancial.co.uk/blog/tag/buy-to-let/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wellspringfinancial.co.uk</link>
+	<description>Guiding you to a brighter financial future.</description>
+	<lastBuildDate>Tue, 05 Jul 2022 13:47:58 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Buy-to-let mortgages</title>
+		<link>https://wellspringfinancial.co.uk/blog/buy-to-let-mortgages/</link>
+		
+		<dc:creator><![CDATA[Rachael Khan]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2022 13:47:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Buy-to-Let]]></category>
+		<category><![CDATA[Mortgages]]></category>
+		<guid isPermaLink="false">https://wellspringfinancial.co.uk/?p=573</guid>
+
+					<description><![CDATA[Buy-to-let mortgages – what you need to know Pete has just inherited £35,000 from his grandma and he’s thinking about investing in a buy-to-let property but has no idea where to start. So, what are the key things Pete needs to know? Is the buy-to-let market a good investment? Some of Pete’s friends have warned [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
